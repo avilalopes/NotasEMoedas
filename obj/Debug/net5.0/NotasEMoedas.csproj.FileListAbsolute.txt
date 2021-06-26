@@ -1,0 +1,16 @@
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.csprojAssemblyReference.cache
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.AssemblyInfoInputs.cache
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.AssemblyInfo.cs
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.csproj.CoreCompileInputs.cache
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.exe
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.deps.json
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.runtimeconfig.json
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.runtimeconfig.dev.json
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.dll
+D:\git\NotasEMoedas\bin\Debug\net5.0\ref\NotasEMoedas.dll
+D:\git\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.pdb
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.dll
+D:\git\NotasEMoedas\obj\Debug\net5.0\ref\NotasEMoedas.dll
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.pdb
+D:\git\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.genruntimeconfig.cache
